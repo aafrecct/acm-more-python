@@ -17,6 +17,7 @@ asociado en ``/examples/``. A continuación un indice en orden:
 8. Decoradores especiales.
    * @staticmethod y @classmethod
    * @property
-9. Instrospección o Reflexión
-10. Metaclases
+9. Herencia Múltiple
+10. Instrospección o Reflexión
+11. Metaclases
 

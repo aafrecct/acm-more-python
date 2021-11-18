@@ -1,0 +1,7 @@
+EXAMPLES
+========
+
+.. autosummary::
+   :toctree: generated
+
+    examples
